@@ -1,0 +1,47 @@
+.veryHappy {
+	font-size: 150px; 
+	color: green;
+}
+.happy {
+	font-size: 150px; 
+	color: #D3D905;
+}
+.neutral {
+	font-size: 150px; 
+	color: #F4AD35;
+}
+.angry {
+	font-size: 150px; 
+	color: red;
+}
+.mt-10, .my-10 {
+	margin-top: 8rem!important;
+}
+.glow:hover{ 
+	filter:drop-shadow(0px 0px 20px #add8e6);
+}
+.lightblue {
+	background-color: #add8e6;
+}
+.thumbsup {
+	font-size: 250px; 
+	color: green;
+}
+.thumbsdown {
+	font-size: 250px; 
+	color: red;
+}
+.btn-v-lg {
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 2.5;
+    border-radius: .3rem;
+}
+.dropdown-item-lg {
+	line-height: 3rem;
+}
+#loginLink {
+	position: absolute;
+	top: 2px;
+	right: 10px;
+}
